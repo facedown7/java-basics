@@ -1,4 +1,4 @@
-package lv.acodemy.classroom;
+package lv.acodemy.classroom.Lesson1;
 
 import java.util.Arrays;
 
