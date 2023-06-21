@@ -1,8 +1,5 @@
 package lv.acodemy.classroom.Lesson3;
 
-import com.sun.tools.javac.Main;
-import lv.acodemy.classroom.Lesson3.AnimalObject;
-
 import static lv.acodemy.classroom.Lesson3.Sizes.*;
 
 public class ObjectPractice {
